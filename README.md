@@ -1,6 +1,5 @@
 # Industrial-Copper-Modeling
 
-# Industrial Copper Modeling
 
 **Introduction**
 ## Introduction
