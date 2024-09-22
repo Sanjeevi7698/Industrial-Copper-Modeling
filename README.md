@@ -64,8 +64,3 @@ Prepare a comprehensive documentation summarizing the steps involved in the anal
 ## Conclusion
 The Industrial Copper Modeling project aims to predict the selling price and status in the industrial copper market using machine learning techniques
 
-  **Links :**
-  ## Links :
-
-* **YouTube  :** https://youtu.be/WM5ZWuMs4Ms
-* **LinkedIn :** https://www.linkedin.com/in/ms-mgr-agri/
